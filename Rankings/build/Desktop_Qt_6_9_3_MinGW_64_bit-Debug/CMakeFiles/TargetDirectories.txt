@@ -1,0 +1,9 @@
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Rankings.dir
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Rankings_autogen_timestamp_deps.dir
+C:/Qt/Projects/RankingsGUI/Rankings/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Rankings_autogen.dir
